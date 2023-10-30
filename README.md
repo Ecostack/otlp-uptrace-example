@@ -1,0 +1,2 @@
+## Example OTLP using Uptrace
+
